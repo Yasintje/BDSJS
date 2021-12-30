@@ -1,0 +1,23 @@
+{
+  "name": "bdsjs",
+  "version": "0.0.1",
+  "description": "A minecraft bedrock dedicated server using a proxy",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcbe",
+    "js",
+    "bds",
+    "mcbeserver"
+  ],
+  "author": "YasinJS",
+  "license": "ISC",
+  "dependencies": {
+    "bedrock-protocol": "^3.8.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "winston": "^3.3.3"
+  }
+}

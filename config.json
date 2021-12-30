@@ -1,0 +1,16 @@
+{
+    "host": "0.0.0.0",
+    "port": 19132,
+
+    "server":{
+        "vhost": "localhost",
+        "vport": 19133
+    },
+
+    "installer":{
+        "version": "1.18.0",
+        "os": "win"
+    },
+
+    "maxPlayers": 12
+}
